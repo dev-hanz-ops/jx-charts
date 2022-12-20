@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   jx-project:
   - apiVersion: v1
+    appVersion: 0.0.4
+    created: "2022-12-20T13:55:14.91370572Z"
+    description: A Helm chart for Kubernetes
+    digest: 0443ac647378804d5704505c513adfc7da52e3b45ee4ec6cf1aa8489157ddc4a
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: jx-project
+    urls:
+    - jx-project-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v1
     appVersion: 0.0.3
-    created: "2022-12-20T11:16:22.902961944Z"
+    created: "2022-12-20T13:55:14.913151953Z"
     description: A Helm chart for Kubernetes
     digest: 0621e75a8ad18a8be41e6d4c9e9c7d725d2a2651cbdb4e7179f38b4fa3c1a5b4
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -11,4 +21,4 @@ entries:
     urls:
     - jx-project-0.0.3.tgz
     version: 0.0.3
-generated: "2022-12-20T11:16:22.902272512Z"
+generated: "2022-12-20T13:55:14.912464714Z"
